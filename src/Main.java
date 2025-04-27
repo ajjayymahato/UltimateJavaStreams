@@ -4,6 +4,10 @@ public class Main {
 //        AvgOfNos.solve();
 //        SumOfAllNos.solve();
 //        EvenOddNos.solve();
-        NoStartsWith2.solve();
+//        NoStartsWith2.solve();
+//        SquareFilterAvg.solve();
+//        MaxMin.solve();
+//        ArraySecondSmallest.solve();
+        CommonElements.solve();
     }
 }
